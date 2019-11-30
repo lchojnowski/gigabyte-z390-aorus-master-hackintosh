@@ -1,0 +1,4 @@
+# How to get Filevault working?
+
+INSTALL KEXTS
+UNHIDE "PREBOOT" VOLUME IN CLOVER

@@ -24,8 +24,6 @@ Before you start, make sure to upgrade your BIOS to the latest version (I use F8
 
 * Internal Graphics: Disabled
 
-
-
 # Overclocking
 
 These are the additional settings I used to overclock my i9 9900k to 5.1GHz.

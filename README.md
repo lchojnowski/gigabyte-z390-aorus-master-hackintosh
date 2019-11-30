@@ -31,17 +31,12 @@ See my [Hardware List](HARDWARE.md)
 - Apple Music (iTunes)
 - DRM-protected videos in TV app (not working in Mojave)
 - Power Nap
-
+- [FileVault][FILEVAULT.md]
 
 ##### Not Working
 - Built-in wifi. This will likely never work since it is the new Intel CNVi that MacOS doesn't support.
 - Onboard Bluetooth is hit or miss. However, I disabled it (HS14) because I have a natively supported Broadcom BCM94360CS2 WIFI/BT adapter.
 - Netflix DRM in Safari (works in Chrome)
-
-
-##### Not Yet Tested
-- FileVault
-
 
 ### Step By Step Instructions
 
